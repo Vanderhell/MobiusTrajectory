@@ -55,4 +55,4 @@ The canonical surface and bit/byte mapping define the transform's compatibility 
 
 ## License
 
-No license has been selected yet.
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
